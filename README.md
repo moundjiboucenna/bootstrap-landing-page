@@ -1,2 +1,2 @@
 ### Demo 
-[View Demo](https://moundjiboucenna.github.io/bootstrap-landig-page/)
+[View Demo](https://moundjiboucenna.github.io/bootstrap-landnig-page/)
